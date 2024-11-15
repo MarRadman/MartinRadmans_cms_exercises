@@ -1,0 +1,7 @@
+services:
+  dockerWeb:
+    image: php:apache
+    volumes:
+      - ./htdocs:/var/www/html/
+    ports:
+      - 8080:80

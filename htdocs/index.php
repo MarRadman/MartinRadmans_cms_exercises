@@ -11,14 +11,17 @@
   <h1>Exercises</h1>
   <hr>
   <h2>Exercise 1</h2>
-  <?php include 'exercise1.php'; ?>
+  <?php include './exercises/exercise1.php'; ?>
   <hr>
   <h2>Exercise 2</h2>
   <p>Number 7 is prime?</p>
-  <?php include 'exercise2.php'; ?>
+  <?php include './exercises/exercise2.php'; ?>
   <hr>
   <h2>Exercise 3</h2>
-  <?php include 'exercise3.php'; ?>
+  <?php include './exercises/exercise3.php'; ?>
+  <hr>
+  <h2>Exercise Homepage</h2>
+  <a href="./exercises/HomePage/homepage.php">Homepage</a>
   <hr>
 </body>
 
