@@ -7,12 +7,12 @@ Ipsum-text och fria bilder) eller ännu hellre - nyheter som just du tycker är 
 
 Sidor på webbplatsen
 
-- Startsida - index.php
-- Nyhetssida (lista alla nyheter) - news.php
-- Sida för enskild nyhet - newsOnePage
-- Om oss-sida - about
-- Kontaktsida - contact
-- 404-sida - 404.php
+- Startsida - index.php \*
+- Nyhetssida (lista alla nyheter) - news.php \*
+- Sida för enskild nyhet - newsOnePage \*
+- Om oss-sida - about \*
+- Kontaktsida - contact \*
+- 404-sida - 404.php \*
 
 ###Krav på sidtyperna:
 

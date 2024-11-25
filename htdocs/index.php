@@ -23,6 +23,9 @@
   <h2>Exercise Homepage</h2>
   <a href="./exercises/HomePage/homepage.php">Homepage</a>
   <hr>
+  <h2>Exercise HTML/CSS/Bootstrap</h2>
+  <a href="./exercises/exercise7/index.php">HTML/CSS/Bootstrap</a>
+  <hr>
 </body>
 
 </html>
